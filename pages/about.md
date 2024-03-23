@@ -1,6 +1,6 @@
 ---
 title: About
-contact_email: sorellana@asu.edu
+contact_email: kcortesh@asu.edu
 copyright: Content CC-BY or CC0. Please attribute correctly to authors and collections!
 citation: Cortes Hernandez, K.A. 2024. Tanymecini of the World Onlne. Available at https://Tanymecini.github.io/species 
 ---
